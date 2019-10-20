@@ -1,0 +1,23 @@
+
+.logo-img{
+    height: 85px;
+}
+.my-navbar{
+    background-color: #dfddc7;
+}
+.sidebar{
+    background-color: #dfddc7;
+    float: left;
+    width: 15%;
+    height: 100%;
+}
+.sidebar-btn{
+    padding: 20px 20px 20px 20px;
+}
+.sidebar{
+    background-color: #f0134d;
+    color: #fff;
+}
+a{
+    color: #fff;
+}
